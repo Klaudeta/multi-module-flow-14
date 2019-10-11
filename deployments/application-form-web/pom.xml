@@ -30,12 +30,6 @@
             </exclusions>
         </dependency>
 
-
-        <dependency>
-            <groupId>com.vaadin.multimodule</groupId>
-            <artifactId>application-form-shell</artifactId>
-            <version>${project.version}</version>
-        </dependency>
         <dependency>
             <groupId>com.vaadin.multimodule</groupId>
             <artifactId>application-form-base</artifactId>
