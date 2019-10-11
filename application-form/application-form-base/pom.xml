@@ -11,12 +11,4 @@
 
     <artifactId>application-form-base</artifactId>
 
-
-    <dependencies>
-        <dependency>
-            <groupId>com.vaadin.multimodule</groupId>
-            <artifactId>shared-spring-support</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
 </project>
